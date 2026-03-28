@@ -20,9 +20,9 @@ A Java-based system to register, view, and resolve complaints.
 - Collections
 - File Handling
 
-## ▶️ How to Run
+##  How to Run
 javac Main.java
 java Main
 
-## 👨‍💻 Author
-Your Name
+##  Author
+Arya Abhyankar
